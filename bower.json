@@ -1,0 +1,23 @@
+{
+    "name": "NA@Github",
+    "version": "0.0.1",
+    "homepage": "http://git.na.edu",
+    "authors": [
+        "Hüseyin Mert" <hmert@na.edu>"
+    ],
+    "description": "A todo application. Educational purpose.",
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+    	"jquery": "*",
+        "bootstrap": "*",
+        "font-awesome": "*",
+    }
+}
